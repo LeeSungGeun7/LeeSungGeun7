@@ -10,8 +10,6 @@
 
 
 ## Back End -
-style=flat&logo=Java&logoColor=white)](#)
-style=flat&logo=nestjs&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
 [![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](#)
 
