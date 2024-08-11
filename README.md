@@ -13,18 +13,20 @@
 
 [![React Query Badge](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=React-query&logoColor=white)](#)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
+![RECOIL](https://img.shields.io/badge/recoil-%233068b7.svg?style=flat&logo=recoil&logoColor=#3578E5)
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=blue)
 
 ## 
 <div align="start" > 
 <h3>Back</p>
 </div>
 
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)](#)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](#)
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](#)
 
 ## 
 <div align="start" > 
@@ -40,8 +42,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/LeeSungGeun7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true" />
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=python , C , Cython , PowerShell , Mako , Shell , CSS , HTML " />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
