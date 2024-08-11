@@ -25,7 +25,8 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/LeeSungGeun7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true&.python linguist-detectable=false" />
+
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
