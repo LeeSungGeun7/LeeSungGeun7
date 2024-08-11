@@ -17,7 +17,7 @@
 ## DB 
 [![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
-</ div>
+</div>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
