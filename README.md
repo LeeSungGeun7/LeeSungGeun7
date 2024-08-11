@@ -21,12 +21,12 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/LeeSungGeun7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=true&theme=nord&hide=${가리고 싶은 언어}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSungGeun7&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/LeeSungGeun7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeSungGeun7&hide=true&hide_title=true&show_icons=${깃아이콘표시}&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeSungGeun7&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
